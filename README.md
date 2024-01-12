@@ -13,14 +13,14 @@ Model Development: Built and trained a deep learning model using TensorFlow and 
 User Interface: Developed a web-based user interface using Flask to allow users to interact with the model and input images for emotion recognition. <br>
 Real-time Processing: Optimized the model for real-time processing, making it suitable for applications that require quick responses. <br>
 
-Project Structure <br>
+## Project Structure <br>
 code/: Contains the main code files for data preprocessing, model training, and deployment. <br>
 datasets/: Includes the datasets used in the project. <br>
 models/: Stores the trained models. <br>
 templates/: Contains HTML templates for the web-based user interface. <br>
 README.md: The file you're currently reading, providing an overview of the project. <br>
 
-Getting Started <br>
+## Getting Started <br>
 
 Clone the repository: <br>
 git clone https://github.com/yourusername/facial-emotion-recognition.git <br>
