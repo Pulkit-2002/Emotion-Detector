@@ -1,0 +1,17 @@
+pip install tensorflow matplotlib
+
+pip install opencv-python dlib matplotlib
+
+pip install tensorflow
+
+pip install tensorflow scikit-learn
+
+pip install scikit-learn matplotlib
+
+pip install tensorflow
+
+pip install flask
+
+# run the flask app
+python app.py
+# Access the web application at " http://127.0.0.1:5000/ " in your browser.
